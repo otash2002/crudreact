@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+.content{
+  min-height: calc(100vh - 70px - 64px);
+}
+.movies{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+}
+label:not(:last-child) {
+  margin-right: 1rem;
+}
+.containere{
+  width: 1300px !important;
+  margin: 0 auto;
+}
