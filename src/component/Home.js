@@ -15,7 +15,7 @@ export default function Home() {
                     <div className="big-news_img col-6 p-0">
                       <img src="https://storage.kun.uz/source/thumbnails/_medium/7/Spmi9IQeKscdxzbt0Lniwx5c5RFS7HZX_medium.jpg" alt="img" width="500px" />
                     </div>
-                    <div className="big-news_content col-6">
+                    <div className="big-news_content col-6 pl-1">
                       <div className="news-text">
                         <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                         <h2>
@@ -156,7 +156,7 @@ export default function Home() {
                   <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
                   <hr />
                 </div>
-                <a href="$" className="main-btn">Ko'proq yangiliklar<i class="fas fa-arrow-right"></i></a>
+                <Link to="/yangiliklar" className="main-btn">Ko'proq yangiliklar<i class="fas fa-arrow-right"></i></Link>
               </div>
             </div>
           </div>
@@ -419,9 +419,9 @@ export default function Home() {
             <div className="movie_icons">
               <Link to="/video">
 
-              <img src="https://storage.kun.uz/source/7/Rui0u_vbMuWlIiHM4nnPOY85aabFnncC.jpg" alt="rasm" width="640px" height="400px" />
+                <img src="https://storage.kun.uz/source/7/wiOoAbcOCM2BGFxxmjS4gqyidyGJnKEM.jpg" alt="rasm" width="640px" height="400px" />
               </Link>
-            <span>Rossiyada 1 milliondan ziyod mehnat migrantiga ehtiyoj paydo bo‘lgan - Xayrulla Umarov</span>
+              <span>“Siyosatchilar xalq oldida javobgardir” – mutaxassis bilan davlat xizmatchilarini tayyorlash va tanlash tajribasi haqida suhbat</span>
               <Link to="/video">
 
                  <i class="fal fa-play-circle"></i>
@@ -432,9 +432,9 @@ export default function Home() {
             <div className="movie_icons">
               <Link to="/video">
 
-              <img src="https://storage.kun.uz/source/7/Rui0u_vbMuWlIiHM4nnPOY85aabFnncC.jpg" alt="rasm" width="640px" height="400px" />
+                <img src="https://storage.kun.uz/source/7/Rui0u_vbMuWlIiHM4nnPOY85aabFnncC.jpg" alt="rasm" width="640px" height="400px" />
               </Link>
-            <span>Fotojamlanma: Vodiy yo‘llarini kuzda kezganda...</span>
+            <span>Dunyodagi eng katta yaxta e'lon qilindi</span>
              <Link to="/video">
 
                 <i class="fal fa-camera"></i>
@@ -444,7 +444,7 @@ export default function Home() {
           <div className="col-3 movies-shirt">
             <Link to="/video">
 
-            <img src="https://storage.kun.uz/source/7/Rui0u_vbMuWlIiHM4nnPOY85aabFnncC.jpg" alt="rasm" width="310px" height="190px" />
+              <img src="https://storage.kun.uz/source/7/NHkBtMcp4QsazGIyweRGNj21qa7XUu0-.jpg" alt="rasm" width="310px" height="190px" />
             </Link>
             <Link to="/video">
 
@@ -461,7 +461,7 @@ export default function Home() {
           <div className="col-3 movies-shirt">
             <Link to="/video">
 
-            <img src="https://storage.kun.uz/source/7/Rui0u_vbMuWlIiHM4nnPOY85aabFnncC.jpg" alt="rasm" width="310px" height="190px" />
+              <img src="https://storage.kun.uz/source/7/giv1a6GowBYTVOF9OPOKI8BAuJc1nvK6.jpg" alt="rasm" width="310px" height="190px" />
             </Link>
             <Link to="/video">
 
@@ -477,7 +477,7 @@ export default function Home() {
           <div className="col-3 movies-shirt">
             <Link to="/video">
 
-            <img src="https://storage.kun.uz/source/7/Rui0u_vbMuWlIiHM4nnPOY85aabFnncC.jpg" alt="rasm" width="310px" height="190px" />
+              <img src="https://storage.kun.uz/source/7/1xoJNbZJnINUC9TmAufDXoDG_alNWa9t.jpg" alt="rasm" width="310px" height="190px" />
             </Link>
             <Link to="/video">
 
@@ -493,7 +493,7 @@ export default function Home() {
           <div className="col-3 movies-shirt">
             <Link to="/video">
 
-            <img src="https://storage.kun.uz/source/7/Rui0u_vbMuWlIiHM4nnPOY85aabFnncC.jpg" alt="rasm" width="310px" height="190px" />
+              <img src="https://storage.kun.uz/source/7/czUrjqIskIVkOtkH7MWUPZNEuOr6cYRk.jpg" alt="rasm" width="310px" height="190px" />
             </Link>
             <Link to="/video">
 
@@ -530,7 +530,7 @@ export default function Home() {
             <div className="col-4">
               <div className="row foot_images">
                 <div className="col-6">
-                  <img src="https://kun.uz/assets/cd6ab492/img/app-store.svg" alt="rasm" />
+                  <img src="https://kun.uz/assets/4da8d774/img/app-store.svg" alt="rasm" />
 
                 </div>
                 <div className="col-6">

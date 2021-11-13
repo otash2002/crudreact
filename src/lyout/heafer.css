@@ -151,6 +151,19 @@ nav .nav-item a:hover{
   font-weight: 500;
   
 }
+.viloyatlar a{
+  font-size: 12px;
+    color: #585858;
+    transition: all 0.3s;
+}
+.viloyatlar a:hover{
+  text-decoration: none;
+      color: #17206a;
+}
+.viloyatlar a:active{
+    background-color: #17206a;
+    color: #fff;
+}
 .hudud{
     background-color: #17206a;
     color: #fff;

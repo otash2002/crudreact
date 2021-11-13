@@ -1,5 +1,4 @@
 import ReactPlayer from 'react-player'
-import "./video.css"
 export default function Video () {
   return(
     <div className="row containere mb-4">
@@ -52,9 +51,9 @@ export default function Video () {
         </div>
 
       <ReactPlayer controls
-          url="https://youtu.be/1uer-TvZEE0"
+          url="https://youtu.be/nAPEtj6M65I"
         width="100"
-        height="700px"
+        height="500px"
       />
       </div>
       <div className="col-2 new-title p-0 mt-3 ">

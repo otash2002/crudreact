@@ -21,12 +21,11 @@ export default function Header() {
        <div className="row">
 
           <div className="col-1">
-            <div className="logo">
               <Link to="/">
-
+            <div className="logo">
               <img src="https://kun.uz/assets/4da8d774/img/kun-uz-logo.svg" alt="Logo" />
-              </Link>
             </div>
+               </Link>
            </div>
 
            <div className="col-8 mt-1">
@@ -55,9 +54,9 @@ export default function Header() {
             <div className="cart-login-search">
               <ul>
                 <li className="">
-                  <a href="a" className="gaz-btn">
+                  <Link to="/" className="gaz-btn">
                     <img src="https://storage.kun.uz/source/banners/2021/07_05/logo_1_neft.svg" alt="gaz" width="130px" />
-                  </a>
+                  </Link>
                 </li>
                   <select className="language">
                       {/* O‘zbekcha <i class="fas fa-chevron-down"></i> */}

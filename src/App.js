@@ -26,6 +26,7 @@ import Sirdaryo from './viloyatlar/Sirdaryo';
 import Toshvil from './viloyatlar/Toshvil';
 import Navoiy from './viloyatlar/Navoiy';
 import Video from './component/Video';
+import Yangilik from './component/Yangilik';
 
 
  export default function App () {
@@ -61,6 +62,7 @@ import Video from './component/Video';
              <Route path="/toshkentvil" component={Toshvil} />
              <Route path="/navoiy" component={Navoiy} />
              <Route path="/video" component={Video} />
+             <Route path="/yangiliklar" component={Yangilik} />
 
            
 
