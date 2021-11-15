@@ -8,15 +8,15 @@ export default function Fargona() {
               <div className="top-news_big col-12">
                 <div className="row">
                   <div className="big-news_img col-6 p-0">
-                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/S_Bdk5vlxLZ2aiMzmgySKjUu1tNqHR7u_medium.jpg" alt="img" width="480px" height="97%" />
+                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/S_Bdk5vlxLZ2aiMzmgySKjUu1tNqHR7u_medium.jpg" alt="img" width="480px" height="100%" />
                   </div>
                   <div className="big-news_content col-6 pl-1">
                     <div className="news-text">
                       <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                       <h2>
-                        Shavkat Mirziyoyev O‘zbekistonda kuzatilgan qum bo‘ronlari haqida gapirdi va tashkil qilish haqida
+                        Farg‘ona viloyatida respublika va mahalliy ommaviy axborot vositalari vakillari uchun Media-tur tashkil etildi
                       </h2>
-                      <p>Senat binosida saylangan prezident Shavkat Mirziyoyevning inauguratsiya marosimi bo‘lib o‘tmoqda. Kun.uz muxbiri xabariga ko‘ra, Shavkat Mirziyoyev tadbir davomida nutq so‘zlamoqda.</p>
+                      <p>Prezident raisligida 2 noyabrda o‘tkazilgan videoselektor yig‘ilishida berilgan topshiriq ijrosi doirasida Farg‘ona viloyati Bog‘dod tumanida bunyod etilgan Guliston yo‘ldosh shaharchasi hamda viloyatda amalga oshirilayotgan yangi loyihalar bilan tanishtirish maqsadida Respublika OAV vakillari uchun 8-9 noyabr kunlari Media-tur tashkil etildi.</p>
                     </div>
                   </div>
                 </div>
@@ -32,21 +32,21 @@ export default function Fargona() {
               <div className="row mt-3">
                 <div className="col-4">
                   <div className="news">
-                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/nwC2XEl_ojljxhXQdG3QDFGRPlBbZlXu_medium.jpg" alt="rasm" width="320" height="203" />
+                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/Dh6jYqrfpXjoRYPsa7NBezi5297K4_7Z_medium.jpg" alt="rasm" width="320" height="203" />
                     <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                     <h4>Telegram'ni bloklashga urinish: Obro‘si to‘kilgan hukumat, qovun tushirgan vazirlik va ishdan ketgan uch amaldor</h4>
                   </div>
                 </div>
                 <div className="col-4">
                   <div className="news">
-                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/vwgqKXHUHM9pPW3ixyTvIgqzOeN33BPO_medium.jpg" alt="rasm" width="320" height="203" />
+                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/8uwLDn0tYP_pY6wj0QLVw3un99IvGJvY_medium.jpg" alt="rasm" width="320" height="203" />
                     <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                     <h4>Ko‘z xiralashishi sabablari va uning oldini olish. Shifokor bilan suhbat</h4>
                   </div>
                 </div>
                 <div className="col-4">
                   <div className="news">
-                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/P0SI27-Z6TorgI3pFgkI3yL1LENKLspi_medium.jpg" alt="rasm" width="295" height="203" />
+                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/vO_-Sgej2E6XzBXZLKCJ33RnGnRRrLYg_medium.jpg" alt="rasm" width="295" height="203" />
                     <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                     <h4>Biznes rivoji uchun Kun.uz'dagi imkoniyatlar </h4>
                   </div>

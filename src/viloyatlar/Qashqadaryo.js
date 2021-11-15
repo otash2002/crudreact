@@ -14,9 +14,9 @@ export default function Qashqadaryo() {
                     <div className="news-text">
                       <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                       <h2>
-                        Shavkat Mirziyoyev O‘zbekistonda kuzatilgan qum bo‘ronlari haqida gapirdi
+                          Bu haqda viloyat hokimi ishtirokida o‘tkazilgan yig‘ilishda ma'lum qilingan. Bu haqda Kun.uz’ga viloyat hokimligi axborot xizmati rahbari xabar berdi.
                       </h2>
-                      <p>Senat binosida saylangan prezident Shavkat Mirziyoyevning inauguratsiya marosimi bo‘lib o‘tmoqda. Kun.uz muxbiri xabariga ko‘ra, Shavkat Mirziyoyev tadbir davomida nutq so‘zlamoqda.</p>
+                      <p> «Ayollar daftari» va «Yoshlar daftari»ga kiritilgan fuqarolarga kredit berilgani haqida yolg‘on hisobotlar tayyorlagan. Bu haqda viloyat hokimi ishtirokida o‘tkazilgan yig‘ilishda ma'lum qilingan. Bu haqda Kun.uz’ga viloyat hokimligi axborot xizmati rahbari xabar berdi.</p>
                     </div>
                   </div>
                 </div>

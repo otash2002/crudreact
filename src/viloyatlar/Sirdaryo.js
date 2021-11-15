@@ -14,9 +14,9 @@ export default function Sirdaryo() {
                     <div className="news-text">
                       <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                       <h2>
-                        Shavkat Mirziyoyev O‘zbekistonda kuzatilgan qum bo‘ronlari haqida gapirdi
+                        Yangiyerda «Yangi O‘zbekiston» massivi qurilishiga start berildi
                       </h2>
-                      <p>Senat binosida saylangan prezident Shavkat Mirziyoyevning inauguratsiya marosimi bo‘lib o‘tmoqda. Kun.uz muxbiri xabariga ko‘ra, Shavkat Mirziyoyev tadbir davomida nutq so‘zlamoqda.</p>
+                      <p>12 noyabr kuni Sirdaryo viloyatining Yangiyer shahrida «Yangi O‘zbekiston» massivi qurilishiga tamal toshi qo‘yish marosimi bo‘ldi. Unda nuroniylar, yoshlar, jamoatchilik faollari ishtirok etdi. Bu haqda Sirdaryo viloyati hokimligi Kun.uz’ga ma'lum qildi.</p>
                     </div>
                   </div>
                 </div>

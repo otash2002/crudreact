@@ -14,9 +14,9 @@ export default function Navoiy() {
                     <div className="news-text">
                       <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                       <h2>
-                        Shavkat Mirziyoyev O‘zbekistonda kuzatilgan qum bo‘ronlari haqida gapirdi
+                        Navoiy viloyatining yangi rahbari 8 soat sayyor qabul o‘tkazdi
                       </h2>
-                      <p>Senat binosida saylangan prezident Shavkat Mirziyoyevning inauguratsiya marosimi bo‘lib o‘tmoqda. Kun.uz muxbiri xabariga ko‘ra, Shavkat Mirziyoyev tadbir davomida nutq so‘zlamoqda.</p>
+                      <p>13 noyabr kuni Navoiy viloyati hokimi vazifasini bajaruvchi Normat Tursunov Navoiy shahridagi Ma'naviyat va ma'rifat markazida birinchi sayyor qabulini o‘tkazdi. Bu haqda Kun.uz’ga hokimlik matbuot xizmati xabar berdi.</p>
                     </div>
                   </div>
                 </div>
@@ -32,21 +32,21 @@ export default function Navoiy() {
               <div className="row mt-3">
                 <div className="col-4">
                   <div className="news">
-                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/nwC2XEl_ojljxhXQdG3QDFGRPlBbZlXu_medium.jpg" alt="rasm" width="320" height="203" />
+                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/tb29WWQZhCn5qRK4IfF0IOWehQe_IXbX_medium.jpg" alt="rasm" width="320" height="203" />
                     <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                     <h4>Telegram'ni bloklashga urinish: Obro‘si to‘kilgan hukumat, qovun tushirgan vazirlik va ishdan ketgan uch amaldor</h4>
                   </div>
                 </div>
                 <div className="col-4">
                   <div className="news">
-                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/vwgqKXHUHM9pPW3ixyTvIgqzOeN33BPO_medium.jpg" alt="rasm" width="320" height="203" />
+                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/TYk4-ONnD-HFg61gZzbcH_XjLnzUc6bG_medium.jpg" alt="rasm" width="320" height="203" />
                     <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                     <h4>Ko‘z xiralashishi sabablari va uning oldini olish. Shifokor bilan suhbat</h4>
                   </div>
                 </div>
                 <div className="col-4">
                   <div className="news">
-                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/P0SI27-Z6TorgI3pFgkI3yL1LENKLspi_medium.jpg" alt="rasm" width="295" height="203" />
+                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/RJU2Hua58LBgVDhkvmp_h8rLOfDFPg9n_medium.jpg" alt="rasm" width="295" height="203" />
                     <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                     <h4>Biznes rivoji uchun Kun.uz'dagi imkoniyatlar </h4>
                   </div>

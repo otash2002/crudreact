@@ -39,14 +39,14 @@ export default function Jizzax() {
                 </div>
                 <div className="col-4">
                   <div className="news">
-                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/vwgqKXHUHM9pPW3ixyTvIgqzOeN33BPO_medium.jpg" alt="rasm" width="320" height="203" />
+                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/UPbvfI2RM-CDllYEV7tvdlSnt6Q_xT-2_medium.jpg" alt="rasm" width="320" height="203" />
                     <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                     <h4>Ko‘z xiralashishi sabablari va uning oldini olish. Shifokor bilan suhbat</h4>
                   </div>
                 </div>
                 <div className="col-4">
                   <div className="news">
-                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/P0SI27-Z6TorgI3pFgkI3yL1LENKLspi_medium.jpg" alt="rasm" width="295" height="203" />
+                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/0U_I7Y_nqAifGK9-kdak-CIEUiwarm3t_medium.jpg" alt="rasm" width="295" height="203" />
                     <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                     <h4>Biznes rivoji uchun Kun.uz'dagi imkoniyatlar </h4>
                   </div>

@@ -17,7 +17,7 @@ export default function Sport() {
                   <h2>
                     JCh-2022 saralashi. Italiya Shveytsariya bilan durang o‘ynadi. Angliya 5ta gol urdi
                   </h2>
-                  <p>Senat binosida saylangan prezident Shavkat Mirziyoyevning inauguratsiya marosimi bo‘lib o‘tmoqda. Kun.uz muxbiri xabariga ko‘ra, Shavkat Mirziyoyev tadbir davomida nutq so‘zlamoqda.</p>
+                  <p> Yevropada shanba oqshomida JCh-2022 saralashi doirasida navbatdagi uchrashuvlar o‘tkazildi. Germaniya, Daniya va Braziliya ortidan Fransiya hamda Belgiya ham Qatardagi mundialga yo‘llanmani rasmiylashtirdi.</p>
                 </div>
               </div>
             </div>
@@ -28,7 +28,7 @@ export default function Sport() {
             <div className="col-6 small-news">
               <div className="row">
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/Spmi9IQeKscdxzbt0Lniwx5c5RFS7HZX_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/vV3ZmJ9X4YCRwfgoxjXsIHBDzlEb7ieR_medium.jpg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8 ">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -36,7 +36,7 @@ export default function Sport() {
                   <hr />
                 </div>
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/UGyooEvby_TC7KvqJeJ62gER0UBcraAN_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/2DH7G1rswRNMmvcFVGpefk45xSH8AWTC_medium.jpg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8 ">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -48,7 +48,7 @@ export default function Sport() {
             <div className="col-6 small-news">
               <div className="row">
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/8kCds5lER5MSkMddGixix0-ahST1b1mf_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/ALhh6-ce2FKn3gVhnAAxZjxl67hRjjLS_medium.jpg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -56,7 +56,7 @@ export default function Sport() {
                   <hr />
                 </div>
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/AfU6gvCk2fIuhNBVe1_6yYzl9xryxDoz_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/uwf3BO2vl3CAxEl1fWdVHluJ5X8vjHpy_medium.jpg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -114,7 +114,7 @@ export default function Sport() {
           </div>
           <div className="block_title_content col-12 p-0">
             <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
+            <p>JCh saralashi. Angliya rekordlar bilan Qatarga yo‘l olmoqda, Italiya yana qolib ketishi mumkin</p>
             <hr />
           </div>
           <div className="block_title_content col-12 p-0">
@@ -124,7 +124,7 @@ export default function Sport() {
           </div>
           <div className="block_title_content col-12 p-0">
             <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
+            <p> JCh saralashi. Angliya rekordlar bilan Qatarga yo‘l olmoqda, Italiya yana qolib ketishi mumkin</p>
             <hr />
           </div>
           <div className="block_title_content col-12 p-0">

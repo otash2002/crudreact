@@ -15,9 +15,9 @@ export default function Andijon() {
                     <div className="news-text">
                       <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                       <h2>
-                        Shavkat Mirziyoyev O‘zbekistonda kuzatilgan qum bo‘ronlari haqida gapirdi
+                        Andijon tibbiyot instituti magistri shifokorlar bayrami kuni avtohalokatda vafot etdi
                       </h2>
-                      <p>Senat binosida saylangan prezident Shavkat Mirziyoyevning inauguratsiya marosimi bo‘lib o‘tmoqda. Kun.uz muxbiri xabariga ko‘ra, Shavkat Mirziyoyev tadbir davomida nutq so‘zlamoqda.</p>
+                      <p>Yo‘l-transport hodisasi talabalar institut ma'muriyati talabi bilan Bo‘ston tumani aholisi orasida so‘rovnoma o‘tkazib qaytayotganida sodir bo‘lgani aytilmoqda.</p>
                     </div>
                   </div>
                 </div>
@@ -40,14 +40,14 @@ export default function Andijon() {
                 </div>
                 <div className="col-4">
                   <div className="news">
-                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/vwgqKXHUHM9pPW3ixyTvIgqzOeN33BPO_medium.jpg" alt="rasm" width="320" height="203" />
+                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/3X8sVYxOJXtTheMp5_lbubqx8js64CmX_medium.jpg" alt="rasm" width="320" height="203" />
                     <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                     <h4>Ko‘z xiralashishi sabablari va uning oldini olish. Shifokor bilan suhbat</h4>
                   </div>
                 </div>
                 <div className="col-4">
                   <div className="news">
-                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/P0SI27-Z6TorgI3pFgkI3yL1LENKLspi_medium.jpg" alt="rasm" width="295" height="203" />
+                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/KQTkC-KycmW-JG_35MYMpdTglLYYV5h-_medium.jpg" alt="rasm" width="295" height="203" />
                     <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                     <h4>Biznes rivoji uchun Kun.uz'dagi imkoniyatlar </h4>
                   </div>
@@ -183,7 +183,7 @@ export default function Andijon() {
               </div>
               <div className="block_title_content col-12 p-0">
                 <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-                <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
+                <p> «Befoyda diplom, taqchil ish o‘rni, past maosh» - Jahon banki o‘zbekistonlik yoshlarning ish topishdagi muammolari haqida</p>
                 <hr />
               </div>
               <div className="block_title_content col-12 p-0">

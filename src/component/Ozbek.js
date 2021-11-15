@@ -18,7 +18,7 @@ export default function Ozbek () {
                   <h2>
                     Shavkat Mirziyoyev O‘zbekistonda kuzatilgan qum bo‘ronlari haqida gapirdi
                   </h2>
-                  <p>Senat binosida saylangan prezident Shavkat Mirziyoyevning inauguratsiya marosimi bo‘lib o‘tmoqda. Kun.uz muxbiri xabariga ko‘ra, Shavkat Mirziyoyev tadbir davomida nutq so‘zlamoqda.</p>
+                  <p> Respublika Gidrometeorologiya markazi yangi hafta boshida O‘zbekistonda harorat keskin sovib, qor yog‘ishidan ogohlantirdi.</p>
                 </div>
               </div>
             </div>
@@ -115,7 +115,7 @@ export default function Ozbek () {
           </div>
           <div className="block_title_content col-12 p-0">
             <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
+            <p>  «Befoyda diplom, taqchil ish o‘rni, past maosh» - Jahon banki o‘zbekistonlik yoshlarning ish topishdagi muammolari haqida</p>
             <hr />
           </div>
           <div className="block_title_content col-12 p-0">
@@ -125,7 +125,7 @@ export default function Ozbek () {
           </div>
           <div className="block_title_content col-12 p-0">
             <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
+            <p>  «Befoyda diplom, taqchil ish o‘rni, past maosh» - Jahon banki o‘zbekistonlik yoshlarning ish topishdagi muammolari haqida</p>
             <hr />
           </div>
           <div className="block_title_content col-12 p-0">
@@ -135,7 +135,7 @@ export default function Ozbek () {
           </div>
           <div className="block_title_content col-12 p-0">
             <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
+            <p>  «Befoyda diplom, taqchil ish o‘rni, past maosh» - Jahon banki o‘zbekistonlik yoshlarning ish topishdagi muammolari haqida</p>
             <hr />
           </div>
           <div className="block_title_content col-12 p-0">

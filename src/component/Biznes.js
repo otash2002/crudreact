@@ -17,7 +17,7 @@ export default function Biznes() {
                   <h2>
                     Shavkat Mirziyoyev O‘zbekistonda kuzatilgan qum bo‘ronlari haqida gapirdi
                   </h2>
-                  <p>Senat binosida saylangan prezident Shavkat Mirziyoyevning inauguratsiya marosimi bo‘lib o‘tmoqda. Kun.uz muxbiri xabariga ko‘ra, Shavkat Mirziyoyev tadbir davomida nutq so‘zlamoqda.</p>
+                  <p> Dunyoning istalgan burchagidan turib yaqinlariga pul o‘tkazmoqchi bo‘lganlar uchun MasterCard har joyda madadkor bo‘la oladi. Kun.uz’ning «Business class» loyihasi doirasida&nbsp;MasterCard global to‘lov tizimi bilan tanishtiramiz.</p>
                 </div>
               </div>
             </div>
@@ -28,7 +28,7 @@ export default function Biznes() {
             <div className="col-6 small-news">
               <div className="row">
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/Spmi9IQeKscdxzbt0Lniwx5c5RFS7HZX_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/48rH_yF6BEix_dpVUL818Lh2KnV8TwGJ_medium.jpg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8 ">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -36,7 +36,7 @@ export default function Biznes() {
                   <hr />
                 </div>
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/UGyooEvby_TC7KvqJeJ62gER0UBcraAN_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/KMXHTNX2oPcYQGEvXwwg1fvjaRphJQ3-_medium.jpg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8 ">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -48,7 +48,7 @@ export default function Biznes() {
             <div className="col-6 small-news">
               <div className="row">
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/8kCds5lER5MSkMddGixix0-ahST1b1mf_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/uJEB3QExMo4-oXIWQgkTRYssv79Lb5bB_medium.jpg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -56,7 +56,7 @@ export default function Biznes() {
                   <hr />
                 </div>
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/AfU6gvCk2fIuhNBVe1_6yYzl9xryxDoz_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/MbV31RI82da8eAWlPKNCI2iZijAayvPx_medium.jpg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -114,17 +114,17 @@ export default function Biznes() {
           </div>
           <div className="block_title_content col-12 p-0">
             <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
+            <p>Ijtimoiy tarmoqlar ruhiy salomatligingizga qanday ta'sir o‘tkazadi: ekspertlar fikri&nbsp;</p>
             <hr />
           </div>
           <div className="block_title_content col-12 p-0">
             <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
+            <p> “Asosiysi – mijozlar ishonchi” - noldan boshlab, 9 mln dollarlik eksportni yo‘lga qo‘ygan tadbirkor</p>
             <hr />
           </div>
           <div className="block_title_content col-12 p-0">
             <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
+            <p>Ijtimoiy tarmoqlar ruhiy salomatligingizga qanday ta'sir o‘tkazadi: ekspertlar fikri&nbsp;</p>
             <hr />
           </div>
           <div className="block_title_content col-12 p-0">

@@ -17,7 +17,7 @@ export default function Jahon(){
                   <h2>
                     Chegaradagi migratsiya inqirozi: polshaliklar havoga o‘q uzishdi, Lukashenko gazni uzadi
                   </h2>
-                  <p>Senat binosida saylangan prezident Shavkat Mirziyoyevning inauguratsiya marosimi bo‘lib o‘tmoqda. Kun.uz muxbiri xabariga ko‘ra, Shavkat Mirziyoyev tadbir davomida nutq so‘zlamoqda.</p>
+                  <p> Polsha IIV Belarus-Polsha chegarasidagi migrantlar orasida ularni to‘siqdan ommaviy ravishda o‘tishga undash uchun Germaniyadan avtobuslar kelayotgani haqida mish-mish tarqatilganidan ogohlantirdi.</p>
                 </div>
               </div>
             </div>
@@ -28,7 +28,7 @@ export default function Jahon(){
             <div className="col-6 small-news">
               <div className="row">
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/Spmi9IQeKscdxzbt0Lniwx5c5RFS7HZX_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/DrQ50pNfHOMXwo11mHUHe8Gmboiz8QP5_medium.jpg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8 ">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -36,7 +36,7 @@ export default function Jahon(){
                   <hr />
                 </div>
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/UGyooEvby_TC7KvqJeJ62gER0UBcraAN_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/wE1GqF24UT1rFZ1zEC_ZHCp8FvemREuh_medium.jpg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8 ">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -48,7 +48,7 @@ export default function Jahon(){
             <div className="col-6 small-news">
               <div className="row">
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/8kCds5lER5MSkMddGixix0-ahST1b1mf_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/9jkfhg9nkB8ab-fnctOSQyMl0yd6MlAq_medium.jpg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -114,7 +114,17 @@ export default function Jahon(){
           </div>
           <div className="block_title_content col-12 p-0">
             <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
+            <p> “Kuchli intilishi bo‘lgan ayol uchun tadbirkor bo‘lish oson” – “Tadbirkor ayol” assotsiatsiyasi rahbari Gulnora Mahmudova</p>
+            <hr />
+          </div>
+          <div className="block_title_content col-12 p-0">
+            <span><i class="fas fa-calendar-day"></i> 16:12 </span>
+            <p>  Ulgurji oziq-ovqat savdosi endi yanada qulayi</p>
+            <hr />
+          </div>
+          <div className="block_title_content col-12 p-0">
+            <span><i class="fas fa-calendar-day"></i> 16:12 </span>
+            <p>  Ulgurji oziq-ovqat savdosi endi yanada qulayi</p>
             <hr />
           </div>
           <div className="block_title_content col-12 p-0">
@@ -124,17 +134,7 @@ export default function Jahon(){
           </div>
           <div className="block_title_content col-12 p-0">
             <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
-            <hr />
-          </div>
-          <div className="block_title_content col-12 p-0">
-            <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
-            <hr />
-          </div>
-          <div className="block_title_content col-12 p-0">
-            <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
+            <p> “Kuchli intilishi bo‘lgan ayol uchun tadbirkor bo‘lish oson” – “Tadbirkor ayol” assotsiatsiyasi rahbari Gulnora Mahmudova</p>
             <hr />
           </div>
           <div className="block_title_content col-12 p-0">

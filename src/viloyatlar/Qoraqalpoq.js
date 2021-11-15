@@ -15,9 +15,9 @@ export default function Qoraqalpoq() {
                     <div className="news-text">
                       <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                       <h2>
-                        Shavkat Mirziyoyev O‘zbekistonda kuzatilgan qum bo‘ronlari haqida gapirdi
+                        Nukusdagi restoranlarning birida ommaviy mushtlashuv bo‘ldi
                       </h2>
-                      <p>Senat binosida saylangan prezident Shavkat Mirziyoyevning inauguratsiya marosimi bo‘lib o‘tmoqda. Kun.uz muxbiri xabariga ko‘ra, Shavkat Mirziyoyev tadbir davomida nutq so‘zlamoqda.</p>
+                      <p>Ijtimoiy tarmoqda Nukusdagi «Niagara» restoranida ommaviy mushtlashuv sodir bo‘lgani aks etgan video tarqaldi. Unda restoran oldida 15-20ga yaqin yigitlar o‘zaro mushtlashgani tasvirlangan.</p>
                     </div>
                   </div>
                 </div>
@@ -33,21 +33,21 @@ export default function Qoraqalpoq() {
               <div className="row mt-3">
                 <div className="col-4">
                   <div className="news">
-                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/nwC2XEl_ojljxhXQdG3QDFGRPlBbZlXu_medium.jpg" alt="rasm" width="320" height="203" />
+                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/4SyjRwZDJfXqT_kEXB9y74p7BB7CyH0u_medium.jpg" alt="rasm" width="320" height="203" />
                     <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                     <h4>Telegram'ni bloklashga urinish: Obro‘si to‘kilgan hukumat, qovun tushirgan vazirlik va ishdan ketgan uch amaldor</h4>
                   </div>
                 </div>
                 <div className="col-4">
                   <div className="news">
-                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/vwgqKXHUHM9pPW3ixyTvIgqzOeN33BPO_medium.jpg" alt="rasm" width="320" height="203" />
+                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/hTBsC9CDQo2PZVIgTTkRWiZRZuT_aCqm_medium.jpg" alt="rasm" width="320" height="203" />
                     <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                     <h4>Ko‘z xiralashishi sabablari va uning oldini olish. Shifokor bilan suhbat</h4>
                   </div>
                 </div>
                 <div className="col-4">
                   <div className="news">
-                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/P0SI27-Z6TorgI3pFgkI3yL1LENKLspi_medium.jpg" alt="rasm" width="295" height="203" />
+                    <img src="https://storage.kun.uz/source/thumbnails/_medium/7/0See6bRFrZy4hFzcqtlunkvkkyjoL9nz_medium.jpg" alt="rasm" width="295" height="203" />
                     <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
                     <h4>Biznes rivoji uchun Kun.uz'dagi imkoniyatlar </h4>
                   </div>

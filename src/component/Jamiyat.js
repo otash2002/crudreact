@@ -17,7 +17,7 @@ export default function Jamiyat() {
                   <h2>
                     Videoo‘yinlar, strimlar va kibersport - yo‘qotilayotgan bolalik yoki professional kasb
                   </h2>
-                  <p>Senat binosida saylangan prezident Shavkat Mirziyoyevning inauguratsiya marosimi bo‘lib o‘tmoqda. Kun.uz muxbiri xabariga ko‘ra, Shavkat Mirziyoyev tadbir davomida nutq so‘zlamoqda.</p>
+                  <p> Yakunlangan haftada ham o‘zbek blogosferasi qizg‘in muhokamalarga boy bo‘ldi. Kun.uz blogerlarning hafta mavzularini to‘pladi.</p>
                 </div>
               </div>
             </div>
@@ -28,7 +28,7 @@ export default function Jamiyat() {
             <div className="col-6 small-news">
               <div className="row">
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/Spmi9IQeKscdxzbt0Lniwx5c5RFS7HZX_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/aykG9tEUbboUJm6tPova_Ex_KOog36PC_medium.jpg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8 ">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -36,7 +36,7 @@ export default function Jamiyat() {
                   <hr />
                 </div>
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/UGyooEvby_TC7KvqJeJ62gER0UBcraAN_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/hcRMusGCPBsu1zZm_nchddodEhtC_Zhr_medium.jpg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8 ">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -48,7 +48,7 @@ export default function Jamiyat() {
             <div className="col-6 small-news">
               <div className="row">
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/8kCds5lER5MSkMddGixix0-ahST1b1mf_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/SdBb_7rEC0oO_0SeSf-bIrUHWwrjk9R7_medium.jpg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -114,7 +114,7 @@ export default function Jamiyat() {
           </div>
           <div className="block_title_content col-12 p-0">
             <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
+            <p>  Andijon tibbiyot instituti magistri shifokorlar bayrami kuni avtohalokatda vafot etdii</p>
             <hr />
           </div>
           <div className="block_title_content col-12 p-0">
@@ -124,7 +124,7 @@ export default function Jamiyat() {
           </div>
           <div className="block_title_content col-12 p-0">
             <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
+            <p>  Andijon tibbiyot instituti magistri shifokorlar bayrami kuni avtohalokatda vafot etdii</p>
             <hr />
           </div>
           <div className="block_title_content col-12 p-0">
@@ -134,7 +134,7 @@ export default function Jamiyat() {
           </div>
           <div className="block_title_content col-12 p-0">
             <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
+            <p> Andijon tibbiyot instituti magistri shifokorlar bayrami kuni avtohalokatda vafot etdi</p>
             <hr />
           </div>
           <div className="block_title_content col-12 p-0">

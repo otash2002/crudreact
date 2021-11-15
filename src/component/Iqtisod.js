@@ -17,7 +17,7 @@ export default function Iqtisod() {
                   <h2>
                     Suv taqchilligi. Mintaqani iqlim o‘zgarishlarining yana qanday oqibatlari kutmoqda?
                   </h2>
-                  <p>Senat binosida saylangan prezident Shavkat Mirziyoyevning inauguratsiya marosimi bo‘lib o‘tmoqda. Kun.uz muxbiri xabariga ko‘ra, Shavkat Mirziyoyev tadbir davomida nutq so‘zlamoqda.</p>
+                  <p> UzAuto Motors kompaniyasining dilerlik punktlari yangilangan Chevrolet Captiva avtomobili uchun tuzilgan shartnomalarni bekor qilayotgani haqida xabarlar tarqaldi.</p>
                 </div>
               </div>
             </div>
@@ -28,7 +28,7 @@ export default function Iqtisod() {
             <div className="col-6 small-news">
               <div className="row">
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/Spmi9IQeKscdxzbt0Lniwx5c5RFS7HZX_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/ihyWaGS_ZTsidzXPU3JsasBL5V14EoS-_medium.jpeg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8 ">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -36,7 +36,7 @@ export default function Iqtisod() {
                   <hr />
                 </div>
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/UGyooEvby_TC7KvqJeJ62gER0UBcraAN_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/QRofZTOXyso7z1SiEDZShLErnNBxLrR2_medium.jpg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8 ">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -48,7 +48,7 @@ export default function Iqtisod() {
             <div className="col-6 small-news">
               <div className="row">
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/8kCds5lER5MSkMddGixix0-ahST1b1mf_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/ROv7pSKYPwHbfVQ8czZe7UtPEENaRNCV_medium.jpg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -56,7 +56,7 @@ export default function Iqtisod() {
                   <hr />
                 </div>
                 <div className="small-news col-4 p-0">
-                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/AfU6gvCk2fIuhNBVe1_6yYzl9xryxDoz_medium.jpg" alt="prizident" width="170" />
+                  <img src="https://storage.kun.uz/source/thumbnails/_medium/7/uLH85a7i5ZJETbk5ICyx7gfBOtVTeWVX_medium.jpg" alt="prizident" width="170" />
                 </div>
                 <div className="small-news_content col-8">
                   <span><i class="fas fa-calendar-day"></i> 16:12 / 06.11.2021 </span>
@@ -114,7 +114,7 @@ export default function Iqtisod() {
           </div>
           <div className="block_title_content col-12 p-0">
             <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
+            <p>  Bryusselda O‘zbekiston – Yevropa Ittifoqi hamkorlik kengashining majlisida bo‘lib o‘tadi</p>
             <hr />
           </div>
           <div className="block_title_content col-12 p-0">
@@ -124,7 +124,7 @@ export default function Iqtisod() {
           </div>
           <div className="block_title_content col-12 p-0">
             <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
+            <p> Bryusselda O‘zbekiston – Yevropa Ittifoqi hamkorlik kengashining majlisida bo‘lib o‘tadi</p>
             <hr />
           </div>
           <div className="block_title_content col-12 p-0">
@@ -134,7 +134,7 @@ export default function Iqtisod() {
           </div>
           <div className="block_title_content col-12 p-0">
             <span><i class="fas fa-calendar-day"></i> 16:12 </span>
-            <p> Olimpiya va paralimpiya zaxiralari kollejlari tashkil etiladi</p>
+            <p>  Bryusselda O‘zbekiston – Yevropa Ittifoqi hamkorlik kengashining majlisida bo‘lib o‘tadi</p>
             <hr />
           </div>
           <div className="block_title_content col-12 p-0">
