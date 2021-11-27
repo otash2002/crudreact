@@ -1,0 +1,31 @@
+
+.call{
+  display: flex;
+  align-items: center;
+  margin: 0 130px;
+  padding: 20px;
+}
+.number{
+  align-items: center;
+}
+.gelok{
+  display: flex;
+  align-items: center;
+  padding-left: 90px;
+}
+.gelok p{
+  padding-top: 20px;
+  padding-left: 15px;
+}
+
+
+.email{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 90px;
+}
+.email p{
+  padding-top: 20px;
+  padding-left: 15px;
+}

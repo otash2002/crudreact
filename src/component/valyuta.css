@@ -1,0 +1,86 @@
+#customers {
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #FFF;
+  padding: 12px;
+}
+
+#customers tr{
+background-color: #ddd;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+
+/* secondary color */
+
+color: #031C29;
+}
+
+#customers tr:hover {background-color: #ddd;}
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #031C29;
+  color: white;
+}
+.valyu_all{
+  background-color: #F8F8F8;
+  padding: 2px;
+}
+.valyur-all{
+  background-color: #031C29;;
+  color: #F8F8F8;
+}
+.valyu_all h3{
+  font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+padding: 10px 0 13px 10px;
+
+}
+.sotp{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.sotp_2{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.pul input{
+  padding: 14px 10px 14px 14px;
+  margin: 25px 0;
+  border: 1px solid #031C29;
+  box-sizing: border-box;
+}
+
+select{
+  padding: 14px;
+}
+.sotp_olish input {
+  background: red;
+  padding-right: 15px;
+
+}
+.sotp_olish{
+  margin-left: 33px;
+  color: #031C29;
+}
+.sotp_olish label{
+  padding-left: 20px;
+  color: #031C29;
+}

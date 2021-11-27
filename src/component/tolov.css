@@ -1,0 +1,62 @@
+.tolov{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.tolov-row{
+  margin: 0 100px;
+
+}
+.tolov_text{
+  padding-left: 140px;
+
+}
+.tolov_text h3{
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 31.25px;
+line-height: 43px;
+/* identical to box height */
+
+
+/* secondary color */
+
+color: #031C29;
+}
+.tolov_text p{
+  font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+
+/* secondary color */
+
+color: #031C29;
+}
+.tolov_img{
+  background: #F8F8F8;
+  width: 260px;
+  padding: 40px 25px;
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+	cursor: pointer;
+}
+.tolov_img span{
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+color: #031C29;
+padding-left: 5px;
+}
+.tolov-content{
+  display: flex;
+  align-items: center;
+
+}
+.money_img{
+  padding-right: 15px;
+}

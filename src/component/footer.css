@@ -1,0 +1,52 @@
+.foot {
+  background: #031C29;
+  color: aliceblue;
+  padding: 140px 50px 50px 100px;
+  position: relative;
+}
+.foot img{
+  position: absolute;
+  width: 400px;
+  bottom: 0px;
+  left: 650px;
+}
+.foot_text{
+text-align: left;
+}
+.foot_text ul{
+  padding-left: 0 !important;
+}
+.foot_text ul li{
+  font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 12.8px;
+line-height: 32px;
+
+/* primary white */
+
+color: #FFFFFF;
+list-style-type: none;
+}
+.foot_text p{
+  font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 251.7%;
+/* or 40px */
+
+
+color: #FFFFFF;
+}
+.end {
+  padding: 20px;
+}
+.end-icon{
+  text-align: end;
+}
+.end-icon i{
+  font-size: 30px;
+  padding-right: 30px;
+  color: #031C29;
+}

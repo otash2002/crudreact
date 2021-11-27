@@ -1,0 +1,36 @@
+#first-nav{
+	background: #0F1035;
+}
+#first-nav button{
+	background: transparent;
+	border: none;
+	color: #fff;
+}
+#third-nav{
+	background: #D3F1F3;
+
+}
+
+
+#section-1{
+	background-image: url("../img/Rectangle.jpg");
+	padding-bottom: 190px;
+
+
+}
+#handshake{
+	font-size: 14px;
+}
+#when-you{
+	font-size: 16px;
+}
+#section-4{
+	background: #F3E02B;
+
+}
+#button-1{
+	background: #0F1035;
+
+
+}
+

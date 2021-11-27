@@ -1,0 +1,163 @@
+.slider{
+	width: 100%;
+	height: 500px;
+	overflow: hidden;
+}
+.sliders{
+	width: 510%;
+	height: 500px;
+	display: flex;
+}
+.sliders input{
+	display: none;
+	position: relative;
+}
+.slide{
+	width: 20%;
+	transition: 2s;
+  background-color: #031C29;
+}
+.slide img{
+	width: 100%;
+	height: 500px;
+}
+.sllider-row{
+	position: relative;
+}
+
+
+
+ .navigation-manual{
+	position: absolute;
+	top: 99%;
+  left: -5%;
+	width: 800px;
+	display: flex;
+	justify-content: center;
+
+}
+
+.manual-btn{
+	border: 2px solid #FFFFFF;
+	padding: 5px;
+	border-radius: 10px;
+	cursor: pointer;
+	transition: 1s;
+}
+.manual-btn:not(:last-child){
+	margin-right: 20px;
+}
+.manual-btn:hover{
+	background: red;
+ }
+#radio0:checked ~ .first{
+	margin-left: 22%;
+}
+#radio0:checked ~ .first{
+	margin-left: -21%;
+}
+
+#radio1:checked ~ .first{
+	margin-left: 0;
+}
+#radio2:checked ~ .first{
+	margin-left: -20%;
+}
+#radio3:checked ~ .first{
+	margin-left: -40%;
+}
+#radio4:checked ~ .first{
+	margin-left: -60%;
+}
+#radio5:checked ~ .first{
+	margin-left: -19%;
+}
+.navigation-manual fa-chevron-left:checked {
+  margin-left: 20%;
+  cursor: pointer;
+}
+
+
+ .navigation-auto{
+	position: absolute;
+	display: flex;
+	width: 800px;
+	justify-content: center;
+	margin-top: 460px;
+}
+.navigation-auto div{
+	border: 2px solid #40d3dc;
+	padding: 5px;
+	border-radius: 10px;
+	transition: 1s;
+}
+
+ 
+ .navigation-auto div:not(:last-child){
+	margin-right: 40px;
+}
+
+#radio1:checked ~ .navigation-auto .auto-btn1{
+	background: #40d3dc;
+}
+#radio2:checked ~ .navigation-auto .auto-btn2{
+	background: #40d3dc;
+}
+#radio3:checked ~ .navigation-auto .auto-btn3{
+	background: #40d3dc;
+}
+#radio4:checked ~ .navigation-auto .auto-btn4{
+	background: #40d3dc;
+}
+
+.navigation-manual i {
+  color: aliceblue;
+  font-size: 20px;
+}
+.sllider-row{
+  position: relative;
+}
+.slide_text{
+  top: 140px;
+  left: 15%;
+  color: aliceblue;
+}
+.slide_text h3{
+  font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 32.25px;
+line-height: 44px;
+
+/* primary white */
+
+color: #FFFFFF;
+
+}
+.slide_text p{
+  font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 27px;
+
+/* primary white */
+
+color: #FFFFFF;
+
+}
+.slide_text button{
+  font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+background: transparent;
+padding: 9px 39px;
+
+
+color: #FFFFFF;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+
+}
