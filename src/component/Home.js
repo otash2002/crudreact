@@ -8,7 +8,7 @@ export default function Home () {
   <>
     
 
-      <nav class="navbar navbar-expand-lg navbar-dark containere">
+      <nav class="navbar navbar-expand-lg navbar-dark container-fluid">
         <div className="navbar-brand">
           <img src="./images/logo-ubank 1.png" alt="rasm1" />
         </div>
@@ -37,7 +37,7 @@ export default function Home () {
             </div>
 			</div>
 		</nav>
-    <header className="containere">
+    <header className="container-fluid">
       <div className="kredit row">
         <div className="col-8">
 
@@ -59,7 +59,7 @@ export default function Home () {
 
     </header>
 
-    <div className="visa-electronic containere">
+    <div className="visa-electronic container-fluid">
       <Slider />
       
 
@@ -67,7 +67,7 @@ export default function Home () {
 
     </div>
 
-    <div className="deposits containere">
+    <div className="deposits container-fluid">
       <div className="row moneys">
         <div className="col-lg-3 col-md-6 col-12 save-money">
           <div>
@@ -104,7 +104,7 @@ export default function Home () {
       </div>
 
     </div>
-      <div className="our-services containere">
+      <div className="our-services container-fluid">
         <div className="service-text">
           <h3>Our services</h3>
           <p>Получите необходимую информацию, в зависимости от вашей ситуации</p>
@@ -112,7 +112,7 @@ export default function Home () {
         <div className="row services">
           <div className="col-12">
             <div className="row">
-              <div className="col-lg-4 col-md-4">
+              <div className="col-lg-4 col-md-4 col-12">
                 <div className="service_img1">
                   <img src="./images/Group 7.png" className="img-fluid" />
                 </div>

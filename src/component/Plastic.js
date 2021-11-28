@@ -1,7 +1,7 @@
 import "./plastic.css"
 export default function Plastic () {
   return (
-    <div className="row containere plastic">
+    <div className="row container-fluid plastic m-0 p-0">
       <div className="col-lg-6 col-md-6 col-12 plastic_content">
         <h3>Plastic cards</h3>
         <p>Bizzi plastik kartalani Chet eldan kelib sorashyapti bermayapmiz <br/>

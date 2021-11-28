@@ -1,9 +1,9 @@
 import "./footer.css"
 export default function Footer () {
   return(
-    <div className="row foot containere">
+    <div className="row foot container-fluid pr-0">
       <img src="./images/map uzbekistan 1.png" />
-      <div className="col-lg-3 col-md-4 col-sm-6 col-12 foot_text">
+      <div className="col-lg-3 foot_text">
         <p>Частным лицам</p>
         <ul>
           <li>Кредиты</li>
@@ -13,7 +13,7 @@ export default function Footer () {
         </ul>
 
       </div>
-      <div className="col-lg-3 col-md-4 col-sm-6 col-12 foot_text">
+      <div className="col-lg-3 col-md-6 col-12 foot_text">
         <p>Бизнесу</p>
         <ul>
           <li>Операции в иностранной валюте</li>
@@ -33,7 +33,7 @@ export default function Footer () {
         </ul>
 
       </div>
-      <div className="col-lg-3 col-md-4 col-sm-6 col-12 foot_text">
+      <div className="col-lg-3 col-md-6 col-12 foot_text">
         <p>Финансовым институтам</p>
         <ul>
           <li>Корреспондентские отношения</li>
@@ -41,7 +41,7 @@ export default function Footer () {
         </ul>
 
       </div>
-      <div className="col-lg-3 col-md-4 col-sm-6 col-12 foot_text">
+      <div className="col-lg-3 foot_text">
         <p>Адресс</p>
         <ul>
 

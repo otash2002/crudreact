@@ -2,7 +2,7 @@ import { Link } from "react-router-dom"
 import "./news.css"
 export default function News () {
   return(
-    <div className="row news containere">
+    <div className="row news container-fluid p-0">
       <div className="col-lg-6 col-md-6 col-sm-12 news_content">
         <h3>News</h3>
         <p>АКБ «Универсалбанк» занимает прочные конкурентные <br/> позиции на всех сегментах рынка банковских... </p>

@@ -4,6 +4,7 @@
 }
 .tolov-row{
   margin: 0 100px;
+  justify-content: center;
 
 }
 .tolov_text{
@@ -59,4 +60,43 @@ padding-left: 5px;
 }
 .money_img{
   padding-right: 15px;
+}
+@media(max-width: 1014px){
+  .tolov-row{
+  margin: 0 30px;
+
+}
+  
+    
+
+}
+@media(max-width: 768px){
+  .tolov-row{
+  margin: 0 10px;
+  }
+  .tolov_text{
+    padding-left: 10px;
+  }
+}
+  
+    
+@media(max-width: 1263px){
+  .tolov_img{
+    margin: 10px;
+  }
+
+  
+    
+
+}
+@media(max-width: 1263px){
+  .tolov_img{
+    margin: 10px;
+    width: 100%;
+    justify-content: center;
+  }
+
+  
+    
+
 }

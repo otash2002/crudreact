@@ -5,10 +5,12 @@
   position: relative;
 }
 .foot img{
-  position: absolute;
-  width: 400px;
+  position: relative;
+  width: auto;
+  display: none;
   bottom: 0px;
-  left: 650px;
+  left: 60%;
+  padding: 0;
 }
 .foot_text{
 text-align: left;

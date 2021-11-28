@@ -60,7 +60,7 @@ export default function Slider () {
 
  
   return (
-    <div className="App">
+    <div className="container-fluid">
           <Carousel
             data={data}
             time={0}

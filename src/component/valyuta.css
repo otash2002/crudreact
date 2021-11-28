@@ -33,6 +33,7 @@ color: #031C29;
 .valyu_all{
   background-color: #F8F8F8;
   padding: 2px;
+  justify-content: center;
 }
 .valyur-all{
   background-color: #031C29;;
@@ -53,23 +54,27 @@ padding: 10px 0 13px 10px;
 }
 .sotp{
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
 }
 .sotp_2{
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
+}
+.pul{
+  margin: 0 10px;
 }
 .pul input{
   padding: 14px 10px 14px 14px;
-  margin: 25px 0;
+  margin: 25px 10px;
   border: 1px solid #031C29;
   box-sizing: border-box;
 }
 
 select{
   padding: 14px;
+  margin-right: 10px;
 }
 .sotp_olish input {
   background: red;
@@ -77,7 +82,7 @@ select{
 
 }
 .sotp_olish{
-  margin-left: 33px;
+  margin-left: 18%;
   color: #031C29;
 }
 .sotp_olish label{
@@ -96,4 +101,69 @@ select{
   .valyur_all{
     padding: 10px;
   }
+  .pul input{
+  width: 50%;
+  padding: 8px 7px 8px 8px;
+  margin: 25px 0;
+  border: 1px solid #031C29;
+  box-sizing: border-box;
+}
+select{
+  padding: 7px !important;
+}
+
+select{
+  padding: 14px;
+}
+.sotp_olish input {
+  background: red;
+  padding-right: 15px;
+
+}
+.sotp_olish{
+  margin-left: 33px;
+  color: #031C29;
+}
+}
+@media(max-width: 425px){
+  #customers td, #customers th {
+  border: 1px solid #FFF;
+  padding: 8px;
+}
+
+  
+}
+@media(max-width: 768px){
+  #customers td, #customers th {
+  border: 1px solid #FFF;
+  padding: 8px;
+}
+  .valyur_all{
+    padding: 10px;
+  }
+  .pul input{
+  width: 100%;
+  padding: 8px 7px 8px 8px;
+  margin: 25px 0;
+  border: 1px solid #031C29;
+  box-sizing: border-box;
+}
+select{
+  padding: 7px !important;
+}
+
+select{
+  padding: 14px;
+}
+.sotp_olish input {
+  background: red;
+  padding-right: 15px;
+
+}
+.sotp_olish{
+  margin-left: 30%;
+  color: #031C29;
+}
+
+  
 }

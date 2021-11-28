@@ -1,7 +1,7 @@
 import "./call.css"
 export default function Call () {
   return (
-    <div className="containere">
+    <div className="container-fluid">
 
     <div className="call">
       <div className="number">

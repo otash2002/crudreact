@@ -1,7 +1,7 @@
 import "./footer.css"
 export default function End () {
   return (
-    <div className="row containere end">
+    <div className="row container-fluid end">
       <div className="col-lg-6 col-md-6 col-sm-6 col-12 end-text">
         <p>© 2020 АКБ «Universal bank» Лицензия №68 от 14.07.2018 года
           </p>

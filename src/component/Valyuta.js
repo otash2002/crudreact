@@ -1,9 +1,9 @@
 import "./valyuta.css"
 export default function Valyuta () {
   return(
-    <div className="row valyuta containere">
+    <div className="row valyuta container-fluid pr-0">
       <h3>Курсы валют</h3>
-      <div className="col-lg-8 col-md-8 col-12">
+      <div className="col-lg-8 col-md-8 col-12 p-0">
         <table id="customers">
           <thead>
             <tr>
@@ -54,8 +54,8 @@ export default function Valyuta () {
         </table>
 
       </div>
-      <div className="col-lg-4 col-md-8 valyu_all">
-        <div className="valyur-all">
+      <div className="col-lg-4 col-md-4 col-12 valyu_all">
+        <div className="valyur-all ml-1">
           <h3>Конверт валют</h3>
 
         </div>
