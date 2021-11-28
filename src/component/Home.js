@@ -15,7 +15,7 @@ export default function Home () {
 			<button class="navbar-toggler ml-auto bg-dark" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01">
 				<span class="navbar-toggler-icon"></span>
 			</button>
-			<div class=" mr-5 collapse navbar-collapse p-3" id="navbarTogglerDemo01">
+			<div class=" mr-0 collapse navbar-collapse p-3" id="navbarTogglerDemo01">
 				<ul class="navbar-nav mt-2 mt-lg-0 align-items-center">
 					<li class="nav-item">
               <Link class="nav-link text-white" to="/">Частным лицам</Link>
@@ -38,8 +38,8 @@ export default function Home () {
 			</div>
 		</nav>
     <header className="containere">
-      <div className="kredit">
-        <div>
+      <div className="kredit row">
+        <div className="col-8">
 
         <ul>
             <li><Link>Кредиты</Link></li>
@@ -50,7 +50,7 @@ export default function Home () {
         </ul>
 
         </div>
-        <div>
+        <div className="col-4">
         <button>Интернет банкинг</button>
         </div>
 
@@ -69,7 +69,7 @@ export default function Home () {
 
     <div className="deposits containere">
       <div className="row moneys">
-        <div className="col-3 save-money">
+        <div className="col-lg-3 col-md-6 col-12 save-money">
           <div>
             <img src="./images/save-money 1.png" className="money_img" alt="save-money" />
             <span>Deposits</span>
@@ -77,7 +77,7 @@ export default function Home () {
             <span className="hick"> <img src="./images/Rectangle 13.png" /> </span>
 
         </div>
-        <div className="col-3 save-money"> 
+        <div className="col-lg-3 col-md-6 col-12 save-money"> 
         <div>
             <img src="./images/accounting 1.png" className="money_img" alt="accounting" />
             <span>Credits</span>
@@ -86,18 +86,19 @@ export default function Home () {
             <span className="hick"> <img src="./images/Rectangle 13.png" /> </span>
  
         </div>
-        <div className="col-3 save-money">
+        <div className="col-lg-3 col-md-6 col-12 save-money">
           <div>
             <img src="./images/credit-card 1.png" className="money_img" alt="accounting" />
             <span>Plastic cards</span>
           </div>
             <span className="hick"> <img src="./images/Rectangle 13.png" /></span>
         </div>
-        <div className="col-3 save-money">
+        <div className="col-lg-3 col-md-6 col-12 save-money">
           <div>
             <img src="./images/transfer 1.png" alt="accounting" />
             <span>Money transfer</span>
           </div>
+            <span className="hick"> <img src="./images/Rectangle 13.png" /></span>
 
         </div>
       </div>
@@ -111,9 +112,9 @@ export default function Home () {
         <div className="row services">
           <div className="col-12">
             <div className="row">
-              <div className="col-4">
+              <div className="col-lg-4 col-md-4">
                 <div className="service_img1">
-                  <img src="./images/Group 7.png" />
+                  <img src="./images/Group 7.png" className="img-fluid" />
                 </div>
                 <div className="service-content">
                   <h3>
@@ -127,10 +128,10 @@ export default function Home () {
                 </div>
               </div>
 
-              <div className="col-8">
+              <div className="col-lg-8 col-md-8  ">
                 <div className="row">
-                  <div className="col-12 online">
-                    <img src="./images/plastic-application.png" />
+                  <div className="col-lg-12 online">
+                    <img src="./images/plastic-application.png" className="img-fluid" />
                     <div className="service_content2">
                       <h3>
                         Online application for <br />
@@ -143,17 +144,17 @@ export default function Home () {
 
                     </div>
                   </div>
-                  <div className="col-6">
+                  <div className="col-lg-6 col-md-6 col-sm-6 col-12" >
                     <div className="service_img">
-                      <img src="./images/Mask Group.png" />
+                      <img src="./images/Mask Group.png" className="img-fluid" />
                     </div>
                     <span className="servi_text">
                       <h3>Online application for deposits</h3>
                     </span>
                   </div>
-                  <div className="col-6 pr-0 pl-4">
-                    <div className="service_img">
-                      <img src="./images/SMS banking.png" />
+                  <div className="col-lg-6 col-md-6 col-sm-6 col-12 pr-0  ">
+                    <div className="service_img2">
+                      <img src="./images/SMS banking.png" className="img-fluid" />
                     </div>
                     <span className="servi_text">
                       <h3>SMS banking</h3>

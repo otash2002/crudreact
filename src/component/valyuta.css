@@ -84,3 +84,16 @@ select{
   padding-left: 20px;
   color: #031C29;
 }
+@media(max-width: 991px){
+
+  .valyur_all{
+    padding: 10px !important;
+    margin-left: 10px;
+  }
+}
+@media(max-width: 1024px){
+
+  .valyur_all{
+    padding: 10px;
+  }
+}

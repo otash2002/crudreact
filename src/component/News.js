@@ -3,7 +3,7 @@ import "./news.css"
 export default function News () {
   return(
     <div className="row news containere">
-      <div className="col-6 news_content">
+      <div className="col-lg-6 col-md-6 col-sm-12 news_content">
         <h3>News</h3>
         <p>АКБ «Универсалбанк» занимает прочные конкурентные <br/> позиции на всех сегментах рынка банковских... </p>
         <span>26.11.2021</span>
@@ -22,11 +22,11 @@ export default function News () {
         <a href="@">Все новосты</a>
         </div>
       </div>
-      <div className="col-6 news_img">
-        <img src="./images/phone-on-hand 2.png" alt="phone"          />
+      <div className="col-lg-6 col-md-6 col-sm-12 news_img">
+        <img src="./images/phone-on-hand 2.png" alt="phone" className="img-fluid"          />
         <div>
-          <img src="./images/app-store.png" alt="app-store"   />
-          <img src="./images/google play.png" alt="app-store"   />
+          <img src="./images/app-store.png" alt="app-store" className="img-fluid"   />
+          <img src="./images/google play.png" alt="app-store" className="img-fluid"   />
         </div>
 
       </div>

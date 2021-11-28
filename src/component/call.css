@@ -1,6 +1,7 @@
 
 .call{
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   margin: 0 130px;
   padding: 20px;
@@ -11,7 +12,7 @@
 .gelok{
   display: flex;
   align-items: center;
-  padding-left: 90px;
+  padding-left: 40px;
 }
 .gelok p{
   padding-top: 20px;
@@ -23,7 +24,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-left: 90px;
+  padding-left: 40px;
 }
 .email p{
   padding-top: 20px;

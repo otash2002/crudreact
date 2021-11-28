@@ -4,26 +4,25 @@
   margin-top: 70px;
 }
 .plactic_image{
-  display: flex;
-  padding-top: 72px;
+  position: relative;
 }
 .uni{
   position: absolute;
-  top: 80px;
-  left: 45px;
+  top: 25%;
+  left: 10%;
   z-index: 2;
 
 }
 .humo{
   position: absolute;
-  top: 100px;
-  left: 168px;
+  top: 28%;
+  left: 29%;
   z-index: 1;
 }
 .unired{
   position: absolute;
-  top: 125px;
-  left: 290px;
+  top: 33%;
+  left: 47%;
   z-index: 0;
 }
 .plastic_content{
@@ -71,5 +70,62 @@ line-height: 22px;
 color: #FFFFFF;
 padding: 9px 60px;
 border: none;
+
+}
+@media(max-width: 1024px){
+  .plastic_content{
+  padding-left: 70px;
+  padding-top: 72px;
+  padding-bottom: 65px;
+}
+.plastic_content h3{
+  font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 33px;
+/* identical to box height */
+
+
+/* secondary color */
+
+color: #031C29;
+
+}
+.plastic_content p{
+  font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 22px;
+
+/* secondary color */
+
+color: #031C29;
+}
+}
+
+@media(max-width: 768px){
+  .uni{
+  position: absolute;
+  top: 25%;
+  left: 0;
+  z-index: 2;
+
+}
+.humo{
+  position: absolute;
+  top: 28%;
+  left: 23%;
+  z-index: 1;
+}
+.unired{
+  position: absolute;
+  top: 33%;
+  left: 44%;
+  z-index: 0;
+}
+
+
 
 }

@@ -15,6 +15,24 @@
   width: 1300px !important;
   margin: 0 auto;
 }
+@media(max-width: 1024px) {
+  .containere{
+    width: auto !important;
+  }
+
+}
+@media(max-width: 768px) {
+  .containere{
+    width: auto !important;
+  }
+
+}
+@media(max-width: 425px) {
+  .containere{
+    width: 425px !important;
+  }
+
+}
 .content{
   min-height: calc(100vh - 70px - 64px);
 }

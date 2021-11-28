@@ -53,3 +53,21 @@ color: #000000;
   padding-top: 45px;
   cursor: pointer;
 }
+@media(max-width: 1024px){
+   .news_content{
+    padding-left: 80px;
+  }
+
+}
+@media(max-width: 768px){
+   .news_content{
+    padding-left: 50px;
+  }
+  .news{
+
+  background: #F8F8F8;
+  padding: 30px;
+  margin: auto 10px;
+  }
+
+}

@@ -8,7 +8,7 @@ export default function Tolov() {
          qilsangiz boladi, xotinni mahriniyam shu joydan bersangiz bo`ladi</p>
       </div>
       <div className="row tolov-row">
-        <div className="col-3 tolov_img">
+        <div className="col-lg-3 col-md-6 col-12   tolov_img">
           <div className="tolov-content">
             <img src="./images/p2p 1.png" className="money_img" alt="save-money" />
             <span>Переводы <br/>
@@ -17,7 +17,7 @@ export default function Tolov() {
           <span className="hick"> <img src="./images/Rectangle 13.png" /> </span>
 
         </div>
-        <div className="col-3 tolov_img">
+        <div className="col-lg-3 col-md-6 col-12   tolov_img">
           <div className="tolov-content">
             <img src="./images/loan 1.png" className="money_img" alt="accounting" />
             <span>Погашение <br/>
@@ -27,7 +27,7 @@ export default function Tolov() {
           <span className="hick"> <img src="./images/Rectangle 13.png" /> </span>
 
         </div>
-        <div className="col-3 tolov_img">
+        <div className="col-lg-3 col-md-6 col-12   tolov_img">
           <div className="tolov-content">
             <img src="./images/loan 1.png" className="money_img" alt="accounting" />
             <span>Мобильные <br/>
@@ -35,7 +35,7 @@ export default function Tolov() {
           </div>
           <span className="hick"> <img src="./images/Rectangle 13.png" /></span>
         </div>
-        <div className="col-3 tolov_img">
+        <div className="col-lg-3 col-md-6 col-12   tolov_img">
           <div className="tolov-content">
             <img src="./images/Group (1).png" alt="accounting" />
             <span>Другие <br/>
