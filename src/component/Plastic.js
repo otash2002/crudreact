@@ -12,12 +12,14 @@ export default function Plastic () {
         <button>Все карты</button>
 
       </div>
-      <div className="col-lg-6 col-md-6 col-12 plactic_image">
-        <img src="./images/plastic-card 1.png"alt="plastic" className="img-fluid uni" />
-        <img src="./images/humo 1.png"alt="plastic" className="img-fluid humo" />
-        <img src="./images/unired 1.png" alt="plastic" className="img-fluid unired " />
-
-
+      <div className="col-lg-6 col-md-6 col-12 plastic-all" >
+        <div className="plastic_image">
+          <img className="img-fluid" src="./images/plastic-card 1.png" alt="universal" id="uni" />
+          <img className="img-fluid" src="./images/humo 1.png" alt="universal"  id="humo"/>
+          <img className="img-fluid" src="./images/unired 1.png" alt="universal" id="unired" />
+          
+        </div>
+       
       </div>
 
     </div>

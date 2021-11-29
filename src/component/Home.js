@@ -26,17 +26,45 @@ export default function Home () {
 					<li class="nav-item">
               <Link class="nav-link text-white" to="/">Финансовым институтам</Link>
 					</li>
+            <div className="footeer">
+            <ul>
+
+              <li>
+                Узбекистан, г.Коканд, Ферганская <br /> область, ул. Шохрухобод
+              </li>
+              <li>
+                info@universalbank.uz <br />
+                Время выполнения: 0.2460 сек.<br />
+                Факс: +998 73 542-05-78
+              </li>
+              <li> Телефон доверия<br />
+                АКБ "Универсал банк":<br />
+                +998 78 150-39-90</li>
+              <li> ЦБ РУз:<br />
+                +998 71 200-00-44</li>
+            </ul>
+            <div className="end-iconn">
+              <i class="fab fa-facebook"></i>
+              <i class="fab fa-instagram"></i>
+              <i class="fab fa-telegram"></i>
+
+            </div>
+
+            
+
+            </div>
 				</ul>
           <div className="menu">
             <img src="./images/Group.png"  alt="rasm" />
               <span> ENG </span>
+              <Link to="/cabinet">
               <img src="./images/cabinet.png"  alt="rasm" />
+              </Link>
               <img src="./images/cil_hamburger-menu.png" alt="rasm"  />
-
-
             </div>
 			</div>
 		</nav>
+    
     <header className="container-fluid">
       <div className="kredit row">
         <div className="col-8">

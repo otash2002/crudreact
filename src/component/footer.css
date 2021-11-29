@@ -52,3 +52,24 @@ color: #FFFFFF;
   padding-right: 30px;
   color: #031C29;
 }
+@media(max-width: 425px){
+  .foot_text{
+text-align: center !important;
+}
+.foot {
+  background: #031C29;
+  color: aliceblue;
+  padding: 40px 50px 50px 20px;
+  position: relative;
+}
+.end-icon{
+  text-align: center;
+}
+.end {
+  padding: 10px;
+}
+.end-text{
+  text-align: center;
+}
+
+}
