@@ -9,6 +9,7 @@
 }
 .tolov_text{
   padding-left: 140px;
+  padding-bottom: 15px;
 
 }
 .tolov_text h3{
@@ -77,6 +78,10 @@ padding-left: 5px;
   .tolov_text{
     padding-left: 10px;
   }
+  .tolov{
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
 }
   
     

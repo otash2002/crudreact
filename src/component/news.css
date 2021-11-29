@@ -4,6 +4,8 @@
   padding: 20px 0;
   }
   .news_content{
+    padding-top: 25px;
+    padding-bottom: 25px;
     padding-left: 140px !important;
   }
 .news_content h3{

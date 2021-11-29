@@ -53,7 +53,7 @@ color: #FFFFFF;
 }
 @media(max-width: 425px){
   .foot_text{
-text-align: center !important;
+text-align: left !important;
 }
 .foot {
   background: #031C29;

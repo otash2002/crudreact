@@ -15,8 +15,8 @@ export default function Home () {
 			<button class="navbar-toggler ml-auto bg-dark" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01">
 				<span class="navbar-toggler-icon"></span>
 			</button>
-			<div class=" mr-0 collapse navbar-collapse p-3" id="navbarTogglerDemo01">
-				<ul class="navbar-nav mt-2 mt-lg-0 align-items-center">
+			<div class="mr-0 navbar-collapse p-3" id="navbarTogglerDemo01">
+				<ul class="navbar-nav mr-auto mt-2 mt-lg-0 align-items-center">
 					<li class="nav-item">
               <Link class="nav-link text-white" to="/">Частным лицам</Link>
 					</li>
@@ -26,34 +26,42 @@ export default function Home () {
 					<li class="nav-item">
               <Link class="nav-link text-white" to="/">Финансовым институтам</Link>
 					</li>
-            <div className="footeer">
-            <ul>
+				
+          <header className="container-fluid p-0 kredit_nav">
+                <div className="kredit_nav row">
+                  <div className="">
 
-              <li>
-                Узбекистан, г.Коканд, Ферганская <br /> область, ул. Шохрухобод
-              </li>
-              <li>
-                info@universalbank.uz <br />
-                Время выполнения: 0.2460 сек.<br />
-                Факс: +998 73 542-05-78
-              </li>
-              <li> Телефон доверия<br />
-                АКБ "Универсал банк":<br />
-                +998 78 150-39-90</li>
-              <li> ЦБ РУз:<br />
-                +998 71 200-00-44</li>
-            </ul>
-            <div className="end-iconn">
+                    <ul>
+                      <li><Link>Кредиты</Link></li>
+                      <li><Link> Пластиковые карты  </Link></li>
+                      <li><Link>Вклады</Link></li>
+                      <li><Link>Оплата и платежы</Link></li>
+                      <li><Link>Денежные переводыa</Link></li>
+                    </ul>
+
+                  </div>
+                  <div className="">
+                    <button>Интернет банкинг</button>
+                  </div>
+
+                </div>
+
+
+              </header>
+
+            <div className="footeer">
+          
+              <div className="end-iconn">
               <i class="fab fa-facebook"></i>
               <i class="fab fa-instagram"></i>
               <i class="fab fa-telegram"></i>
 
-            </div>
+              </div>
 
             
 
             </div>
-				</ul>
+              </ul>
           <div className="menu">
             <img src="./images/Group.png"  alt="rasm" />
               <span> ENG </span>
@@ -65,27 +73,28 @@ export default function Home () {
 			</div>
 		</nav>
     
-    <header className="container-fluid">
-      <div className="kredit row">
-        <div className="col-8">
+  
+      <header className="container-fluid">
+        <div className="kredit row">
+          <div className="col-8">
 
-        <ul>
-            <li><Link>Кредиты</Link></li>
-            <li><Link> Пластиковые карты  </Link></li>
-            <li><Link>Вклады</Link></li>
-            <li><Link>Оплата и платежы</Link></li>
-            <li><Link>Денежные переводыa</Link></li>
-        </ul>
+            <ul>
+              <li><Link>Кредиты</Link></li>
+              <li><Link> Пластиковые карты  </Link></li>
+              <li><Link>Вклады</Link></li>
+              <li><Link>Оплата и платежы</Link></li>
+              <li><Link>Денежные переводыa</Link></li>
+            </ul>
+
+          </div>
+          <div className="col-4">
+            <button>Интернет банкинг</button>
+          </div>
 
         </div>
-        <div className="col-4">
-        <button>Интернет банкинг</button>
-        </div>
-
-      </div>
 
 
-    </header>
+      </header>
 
     <div className="visa-electronic container-fluid">
       <Slider />
@@ -94,6 +103,7 @@ export default function Home () {
       
 
     </div>
+
 
     <div className="deposits container-fluid">
       <div className="row moneys">

@@ -2,6 +2,14 @@
 .navbar-collapse ul{
 	margin-left: 24px;
 }
+.nav-link{
+	color: #031C29 !important;
+	margin-left: 10px;
+	font-size: 10px;
+}
+.navbar-collapse ul{
+	justify-content: start !important;
+}
 @media(max-width: 1024px){
 	.navbar-collapse ul{
 	margin-left: 4px;
@@ -95,6 +103,12 @@
 	padding: 0 15px;
 	padding-bottom: 10px;
 }
+.kredit{
+	display: none !important;
+}
+.kredit_nav{
+	display: block !important;
+}
 
 
 
@@ -145,6 +159,39 @@ line-height: 22px;
 	padding-right: 12px;
 	cursor: pointer;
 }
+.kredit_nav{
+	display: flex;
+	background: #031C29 !important;
+	align-items: center;
+	justify-content: space-between;
+	margin: 0 auto;
+	padding: 15px 0;
+	text-align: center;
+	display: none;
+}
+.kredit_nav ul{
+	margin-left: 10px;
+	padding-top: 5px;
+}
+.kredit_nav ul li{
+	list-style-type: none;
+	padding-top: 10px;
+}
+.kredit_nav a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 15px;
+	padding-right: 30px;
+}
+
+.kredit_nav button{
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+padding: 4px 10px;
+margin-top: 10px;
+}
+
+
 .kredit{
 	display: flex;
 	margin: 0 auto;

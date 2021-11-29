@@ -46,7 +46,7 @@ export default function Slider () {
             time={2000}
             width="100%"
             height="500px"
-            radius="10px"
+            radius="5px"
             captionPosition="top"
             automatic={true}
             dots={true}
