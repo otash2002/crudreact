@@ -2,7 +2,7 @@ import "./footer.css"
 export default function Footer () {
   return(
     <div className="row foot container-fluid pr-0">
-      <img src="./images/map uzbekistan 1.png" />
+      <img src="./images/map uzbekistan 1.png" className="img-fluid" />
       <div className="col-lg-3 foot_text">
         <p>Частным лицам</p>
         <ul>
